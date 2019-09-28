@@ -15,7 +15,7 @@ company_url: https://github.com/MatrixClub
 github_url: https://github.com/BigDataHunter # ex. https://github.com/DONGChuan
 github_username: BigDataHunter # ex. DONGChuan
 description: MatrixClub for matrix
-favicon: favicon.jpeg # Image must be in assets/images
+favicon: favicon1.jpeg # Image must be in assets/images
 repository: BigDataHunter/bigDataHunter.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
